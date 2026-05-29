@@ -1,0 +1,8 @@
+{
+  "gameId": "1008_1",
+  "gameName": "BedWars Classic",
+  "maxPlayers": 16,
+  "teamCount": 4,
+  "allowSpectate": true,
+  "startCountdown": 20
+}
