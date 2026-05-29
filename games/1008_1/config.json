@@ -6,5 +6,5 @@
   "allowSpectate": true,
   "startCountdown": 20,
   "defaultMap": "m1008_1n",
-  "resourceRedirectUrl": "https://static.resquared.studio/maps/m1008_1n.zip"
+  "resourceRedirectUrl": "https://blockmango-maps.vercel.app/maps/m1008_1n.zip"
 }
