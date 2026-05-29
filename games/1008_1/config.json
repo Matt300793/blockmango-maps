@@ -4,5 +4,7 @@
   "maxPlayers": 16,
   "teamCount": 4,
   "allowSpectate": true,
-  "startCountdown": 20
+  "startCountdown": 20,
+  "defaultMap": "m1008_1n",
+  "resourceRedirectUrl": "https://static.resquared.studio/maps/m1008_1n.zip"
 }
