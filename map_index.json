@@ -11,9 +11,9 @@
       "maps": [
         {
           "mapId": "m1008_1n",
-          "mapIcon": "https://static.resquared.studio/game-icons/g1046.png",
+          "mapIcon": "https://blockmango-maps.vercel.app/game-icons/g1046.png",
           "mapName": "Bed Wars 1",
-          "mapZipUrl": "https://static.resquared.studio/maps/m1008_1n.zip",
+          "mapZipUrl": "https://blockmango-maps.vercel.app/maps/m1008_1n.zip",
           "mapSpawnPos": "47 51 58"
         }
       ]
