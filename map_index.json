@@ -1,0 +1,22 @@
+{
+  "status": "success",
+  "totalGames": 1,
+  "games": [
+    {
+      "gameId": "1008_1",
+      "name": "BedWars Classic",
+      "version": "1.0.0",
+      "engineVersion": "10039",
+      "active": true,
+      "maps": [
+        {
+          "mapId": "m1008_1n",
+          "mapIcon": "https://static.resquared.studio/game-icons/g1046.png",
+          "mapName": "Bed Wars 1",
+          "mapZipUrl": "https://static.resquared.studio/maps/m1008_1n.zip",
+          "mapSpawnPos": "47 51 58"
+        }
+      ]
+    }
+  ]
+}
